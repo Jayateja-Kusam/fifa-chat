@@ -12,7 +12,7 @@ This is a chat application game about guessing the winner of 2018 FIFA world cup
 
 2.Now open the folder using visual studio code 2019.
 
-3.Open the terminal anad install the node modules using NPM INSTALL function
+3.Open the terminal anad install the node modules using NPM INSTALL function.
 
 4.Now open the browser and connect to the local host:3000 as the port address is already saved into the code, it should be automatic.
 
